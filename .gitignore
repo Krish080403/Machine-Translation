@@ -1,0 +1,17 @@
+*.pt
+Dataa.xlsx
+fairseq/
+github/
+Hindi_Marathi/
+Hindi_Nepali/
+Machine_Translation/
+new/
+Version1/checkpoint1.2B/
+Version1/checkpoint1.2B_Mr-Hi/
+Version2/checkpoint1.2B/
+Version2/checkpoint1.2B_Mr-Hi/
+Version3/checkpoint1.2B/
+Version3/checkpoint1.2B_Mr-Hi/
+Version4/checkpoint1.2B/
+Version4/checkpoint1.2B_Mr-Hi/
+backtranslation/

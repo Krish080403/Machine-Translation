@@ -1,0 +1,487 @@
+Sample_Id-35
+S-__hi__ हो भाषा।
+T- ""
+H- होबाओःका जगर।
+D- होबाओःका जगर।
+Log_Probability -0.8071151971817017
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-41
+S-__hi__ हो भाषा।
+T- ""
+H- होबाओःका जगर।
+D- होबाओःका जगर।
+Log_Probability -0.8071151971817017
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-0
+S-__hi__ भाजपा के लिए।
+T- ""
+H- भाजपा नगेन।
+D- भाजपा नगेन।
+Log_Probability -0.646520733833313
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-17
+S-__hi__ रांची में।
+T- ""
+H- राँची रे।
+D- राँची रे।
+Log_Probability -0.3297131657600403
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-20
+S-__hi__ हमने ही।
+T- ""
+H- अले गे।
+D- अले गे।
+Log_Probability -0.5989996790885925
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-38
+S-__hi__ हमारी सरकार लगातार।
+T- ""
+H- अबुअः सरकार लगातार।
+D- अबुअः सरकार लगातार।
+Log_Probability -0.6481934189796448
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-51
+S-__hi__ ये विकास भी।
+T- ""
+H- नेआ उनुबारो।
+D- नेआ उनुबारो।
+Log_Probability -0.8606783151626587
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-2
+S-__hi__ उनका स्वाभिमान।
+T- ""
+H- इनकुअः मइन मनारङ।
+D- इनकुअः मइन मनारङ।
+Log_Probability -0.6180254817008972
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-7
+S-__hi__ तब जाकर के।
+T- ""
+H- तोबे सेन केआते।
+D- तोबे सेन केआते।
+Log_Probability -0.6685019135475159
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-8
+S-__hi__ आदिवासी समाज को।
+T- ""
+H- आदिवासी समाज को।
+D- आदिवासी समाज को।
+Log_Probability -0.38462594151496887
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-10
+S-__hi__ और झारखंड।
+T- ""
+H- ओड़ोः झारखण्ड।
+D- ओड़ोः झारखण्ड।
+Log_Probability -0.42017120122909546
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-30
+S-__hi__ आदिवासी समाज के।
+T- ""
+H- आदिवासी समाज रेन को।
+D- आदिवासी समाज रेन को।
+Log_Probability -0.44393786787986755
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-31
+S-__hi__ सपूत ने।
+T- ""
+H- सपूत दो।
+D- सपूत दो।
+Log_Probability -0.8493137955665588
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-46
+S-__hi__ समय खत्म होगा।
+T- ""
+H- सोमय चबाओःअ।
+D- सोमय चबाओःअ।
+Log_Probability -0.7727430462837219
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-52
+S-__hi__ और विरासत भी।
+T- ""
+H- ओड़ोः बिरासतओ।
+D- ओड़ोः बिरासतओ।
+Log_Probability -0.6680968403816223
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-12
+S-__hi__ भाजपा को ही मिला है।
+T- ""
+H- भाजपा गे नामतादाएः।
+D- भाजपा गे नामतादाएः।
+Log_Probability -0.5996395349502563
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-13
+S-__hi__ बीते दशक में।
+T- ""
+H- सेनोः जन गेल सिरमा रे।
+D- सेनोः जन गेल सिरमा रे।
+Log_Probability -0.48006299138069153
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-24
+S-__hi__ धरती आबा की।
+T- ""
+H- ओते आबा केदा।
+D- ओते आबा केदा।
+Log_Probability -0.5719197392463684
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-26
+S-__hi__ उत्सव शुरू होने वाले।
+T- ""
+H- पोरोब एटेगोः लेका।
+D- पोरोब एटेगोः लेका।
+Log_Probability -0.7263050675392151
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-34
+S-__hi__ होगा साथियों ये क्षेत्र।
+T- ""
+H- ताइना सोंगेको नेआ क्षेत्र।
+D- ताइना सोंगेको नेआ क्षेत्र।
+Log_Probability -0.6938778162002563
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-3
+S-__hi__ हमेशा सर्वोपरि रहा है।
+T- ""
+H- सोबेन इमतङ चेतन उतर रे तइकेना।
+D- सोबेन इमतङ चेतन उतर रे तइकेना।
+Log_Probability -0.5963353514671326
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-49
+S-__hi__ हम पूरी तरह प्रतिबद्ध हैं।
+T- ""
+H- अबु सोबेन लेकाते प्रतिबद्ध मेना बुआ।
+D- अबु सोबेन लेकाते प्रतिबद्ध मेना बुआ।
+Log_Probability -0.64143306016922
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-4
+S-__hi__ जब पहली बार भाजपा सरकार बनी।
+T- ""
+H- चिमतुङ सिदा उतार भाजपा सरकार बाइजाना।
+D- चिमतुङ सिदा उतार भाजपा सरकार बाइजाना।
+Log_Probability -0.47453367710113525
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-16
+S-__hi__ के लिए अनेक कदम उठाए हैं।
+T- ""
+H- नातिन बेसे काटाले राकाबतादा।
+D- नातिन बेसे काटाले राकाबतादा।
+Log_Probability -0.7452648878097534
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-27
+S-__hi__ आने वाले दो सालों तकय।
+T- ""
+H- हिजुःतान बार सिरमा जाकेद।
+D- हिजुःतान बार सिरमा जाकेद।
+Log_Probability -0.5258626937866211
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-29
+S-__hi__ पूरे देश भर में चलेगा।
+T- ""
+H- गोटा दिसुम रे सेसेना।
+D- गोटा दिसुम रे सेसेना।
+Log_Probability -0.3966893255710602
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-39
+S-__hi__ मातृभाषा पर बल दे।
+T- ""
+H- एंगाजगर रे जोर ओमेपे।
+D- एंगाजगर रे जोर ओमेपे।
+Log_Probability -0.44433656334877014
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-44
+S-__hi__ मोदी की गारंटी है।
+T- ""
+H- मोदीअः गारंटी तनअः।
+D- मोदीअः गारंटी तनअः।
+Log_Probability -0.501878023147583
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-45
+S-__hi__ हो भाषा का ये अपमान कर।
+T- ""
+H- होबाओःका जागार राः नेआ माइन का मानातिङोःका।
+D- होबाओःका जागार राः नेआ माइन का मानातिङोःका।
+Log_Probability -0.7942751049995422
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-9
+S-__hi__ अलग राज्य मिले छत्तीसगढ।
+T- ""
+H- बिनगा राइजको नामाकाना छत्तीसगढ।
+D- बिनगा राइजको नामाकाना छत्तीसगढ।
+Log_Probability -0.6483588218688965
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-11
+S-__hi__ यह दो राज्य बनाने का सौभाग्य।
+T- ""
+H- नेआ बारिआ राइज बाइरा: सौभाग्य।
+D- नेआ बारिआ राइज बाइरा: सौभाग्य।
+Log_Probability -0.58127361536026
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-15
+S-__hi__ देशदुनिया के सामने रखने का।
+T- ""
+H- दिसुम दिसुम सनमङ रे जोगाव मेनते।
+D- दिसुम दिसुम सनमङ रे जोगाव मेनते।
+Log_Probability -0.6052975058555603
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-25
+S-__hi__ डेढ सौ भी जन्मजयंती के।
+T- ""
+H- डेढ़ सौ ओ जन्म जयंती रअः।
+D- डेढ़ सौ ओ जन्म जयंती रअः।
+Log_Probability -0.7805126309394836
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-40
+S-__hi__ मातृभाषा का सम्मान करती है।
+T- ""
+H- एंगाजागार राः माइन ओमेआएः।
+D- एंगाजागार राः माइन ओमेआएः।
+Log_Probability -0.7064124345779419
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-6
+S-__hi__ अवसर मिला अटल जी देश के प्रधानमंत्री बने।
+T- ""
+H- मोकाएः नामकेदा अटल जी दिसुम रेन प्रधानमंत्री बाइजानाएः।
+D- मोकाएः नामकेदा अटल जी दिसुम रेन प्रधानमंत्री बाइजानाएः।
+Log_Probability -0.4812209904193878
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-14
+S-__hi__ हमने आदिवासी समाज के योगदान को।
+T- ""
+H- आले आदिवासी समाजरा: योगदानको।
+D- आले आदिवासी समाजरा: योगदानको।
+Log_Probability -0.4201987683773041
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-18
+S-__hi__ धरती आवा बिरसा मुंडा का।
+T- ""
+H- धरती आवा बिरसा मुण्डाः।
+D- धरती आवा बिरसा मुण्डाः।
+Log_Probability -0.4682568907737732
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-36
+S-__hi__ इससे समृद्ध क्षेत्र है यहां की पहचान।
+T- ""
+H- नेआते समृद्ध क्षेत्र मेनाः नेताः राः उनुरुम।
+D- नेआते समृद्ध क्षेत्र मेनाः नेताः राः उनुरुम।
+Log_Probability -0.5293645858764648
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-43
+S-__hi__ उपेक्षा झेलनी पडी है।
+T- ""
+H- उपेक्षा लेलोः तना।
+D- उपेक्षा लेलोः तना।
+Log_Probability -0.9972530007362366
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-50
+S-__hi__ और पूरा प्रयास करने का वादा करते हैं।
+T- ""
+H- ओड़ोः सोबेन प्रयास रअः किरिआएआएः।
+D- ओड़ोः सोबेन प्रयास रअः किरिआएआएः।
+Log_Probability -0.6031550765037537
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-19
+S-__hi__ इतना भव्य संग्रहालय बनाया।
+T- ""
+H- निमिन मरङ संग्रहालय बइ केदा।
+D- निमिन मरङ संग्रहालय बइ केदा।
+Log_Probability -0.6421850323677063
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-22
+S-__hi__ जातीय गौरव दिवस घोषित किया है।
+T- ""
+H- जातीय गौरव दिवस घोषित केदा।
+D- जातीय गौरव दिवस घोषित केदा।
+Log_Probability -0.6833322048187256
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-23
+S-__hi__ और इस बार तो पंद्र नवंबर से।
+T- ""
+H- ओड़ोः निसुकन दो पंद्र नवंबर ते।
+D- ओड़ोः निसुकन दो पंद्र नवंबर ते।
+Log_Probability -0.5964597463607788
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-32
+S-__hi__ देश के लिए कितना बडा योगदान किया?
+T- ""
+H- दिसुम नगेन चिमिन मरङ देंगाएः ओम लअः?
+D- दिसुम नगेन चिमिन मरङ देंगाएः ओम लअः?
+Log_Probability -0.6893594861030579
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-33
+S-__hi__ इससे देश का बच्चाबच्चा परिचित है।
+T- ""
+H- नेआते दिसुम रेन होनहोन चिपिना मेनाःइ।
+D- नेआते दिसुम रेन होनहोन चिपिना मेनाःइ।
+Log_Probability -0.6277953386306763
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-37
+S-__hi__ वो भाषा से है और आप तो जानते हैं।
+T- ""
+H- एना जागार ते मेनाः ओड़ोः आम दोम इतुआना।
+D- एना जागार ते मेनाः ओड़ोः आम दोम इतुआना।
+Log_Probability -0.4351211190223694
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-42
+S-__hi__ को बहुत अपमान झेलने पडे हैं।
+T- ""
+H- बेसे माइन काएः मानातिङ तानाएः।
+D- बेसे माइन काएः मानातिङ तानाएः।
+Log_Probability -0.6783663630485535
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-47
+S-__hi__ हो भाषा को उचित सम्मान मिले यहां की और ।
+T- ""
+H- होबाओःका भाषा के मजालेका मइन नमोःका नेताः रअः ओड़ोः।
+D- होबाओःका भाषा के मजालेका मइन नमोःका नेताः रअः ओड़ोः।
+Log_Probability -0.6941338777542114
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.500 hyp_len = 9 ref_len = 2)
+Sample_Id-48
+S-__hi__ भाषाओं को उचित सम्मान मिलेइसकेलिए।
+T- ""
+H- भाषाको बेस लेका मइनको नामेका एनामेनते।
+D- भाषाको बेस लेका मइनको नामेका एनामेनते।
+Log_Probability -0.7493962645530701
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-1
+S-__hi__ आदिवासी भाई-बहनों की आकांक्षा
+T- ""
+H- आदिवासी हागा-मिसिकोआः सानाङ
+D- आदिवासी हागा-मिसिकोआः सानाङ
+Log_Probability -0.4748155474662781
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-21
+S-__hi__ भगवान बिरसा मुंडा के जन्मदिवस को ।
+T- ""
+H- भगवान बिरसा मुण्डाः जोनोम दिन रे।
+D- भगवान बिरसा मुण्डाः जोनोम दिन रे।
+Log_Probability -0.5972849726676941
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-53
+S-__hi__ ये हमारे संकल्प को मजबूत करने वाली बात है।
+T- ""
+H- नेआ अबुअः संकल्प के केटेः रअः कजि तनअः।
+D- नेआ अबुअः संकल्प के केटेः रअः कजि तनअः।
+Log_Probability -0.6452534198760986
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-28
+S-__hi__ ये उत्सवव देश के हर कोने में चलेगा।
+T- ""
+H- नेआ उत्सव दिसुम राः सोबेन कोना रे सेसेना।
+D- नेआ उत्सव दिसुम राः सोबेन कोना रे सेसेना।
+Log_Probability -0.48424965143203735
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-5
+S-__hi__ दिल्ली में अटल बिहारी वाजपेयी को सेवा करने का।
+T- ""
+H- दिल्ली रे अटल बिहारी वाजपेयी के सेवा मेनते।
+D- दिल्ली रे अटल बिहारी वाजपेयी के सेवा मेनते।
+Log_Probability -0.4114818274974823
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Generate test with beam=5: chrF2 = 0.00

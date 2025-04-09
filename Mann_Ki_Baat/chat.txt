@@ -1,0 +1,253 @@
+Sample_Id-8
+S-__hi__ साथ ही।
+T- ""
+H- एनालोःगे।
+D- एनालोःगे।
+Log_Probability -0.8771964907646179
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.368 ratio = 0.500 hyp_len = 1 ref_len = 2)
+Sample_Id-18
+S-__hi__ सामूहिक
+T- ""
+H- सोबेनकोआः
+D- सोबेनकोआः
+Log_Probability -1.1245354413986206
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.368 ratio = 0.500 hyp_len = 1 ref_len = 2)
+Sample_Id-19
+S-__hi__ स्तर पर।
+T- ""
+H- स्तर रे।
+D- स्तर रे।
+Log_Probability -0.4465061128139496
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-16
+S-__hi__ हमारे जीवन में।
+T- ""
+H- अबुअः जिदन रे।
+D- अबुअः जिदन रे।
+Log_Probability -0.6661994457244873
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-22
+S-__hi__ श्रेष्ठ भारत काभी।
+T- ""
+H- माजा भारत जाआं इमतुङ।
+D- माजा भारत जाआं इमतुङ।
+Log_Probability -0.6324304938316345
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-3
+S-__hi__ इस बात का प्रमाण है।
+T- ""
+H- नेआ कजि रअः सबुति मेनअः।
+D- नेआ कजि रअः सबुति मेनअः।
+Log_Probability -0.6583262085914612
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-15
+S-__hi__ छठ का पर्व।
+T- ""
+H- छठ रेअः पोरोब।
+D- छठ रेअः पोरोब।
+Log_Probability -0.5602774620056152
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-4
+S-__hi__ कि हमारी संस्कृति हमारी आस्था का।
+T- ""
+H- चि आबुआः सासाङकिर आबुआः पाति राः।
+D- चि आबुआः सासाङकिर आबुआः पाति राः।
+Log_Probability -0.5614834427833557
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-10
+S-__hi__ इसलिएहमें हरपरिस्थिति।
+T- ""
+H- एना मेनते अले सोबेन लेका तइन रेअः कजि।
+D- एना मेनते अले सोबेन लेका तइन रेअः कजि।
+Log_Probability -0.9019476175308228
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-21
+S-__hi__ छठ का पर्व एक भारत।
+T- ""
+H- छठ राः पोरोब मिआद भारत।
+D- छठ राः पोरोब मिआद भारत।
+Log_Probability -0.5335206985473633
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-26
+S-__hi__ छठ मैया सबकीस।
+T- ""
+H- छठ मैया सबकीस।
+D- छठ मैया सबकीस।
+Log_Probability -0.520794689655304
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-0
+S-__hi__ आज देश के कई हिस्सों में।
+T- ""
+H- तिसिङ दिसुम रेअः चिमिन टयद् कोरे।
+D- तिसिङ दिसुम रेअः चिमिन टयद् कोरे।
+Log_Probability -0.5225645303726196
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-2
+S-__hi__ सूर्य उपासना की परंपरा।
+T- ""
+H- सिंगि उपासना रअः चोलोन।
+D- सिंगि उपासना रअः चोलोन।
+Log_Probability -0.5004702210426331
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-6
+S-__hi__ इस पूजा के जरिए हमारे जीवनमें।
+T- ""
+H- ने बोंगा होरा ते अबुअः जिदन रे।
+D- ने बोंगा होरा ते अबुअः जिदन रे।
+Log_Probability -0.6497640609741211
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-11
+S-__hi__ एक समान भाव रखनाचाहिए।
+T- ""
+H- मिआद बाराबारि भाव जोगाओएपे।
+D- मिआद बाराबारि भाव जोगाओएपे।
+Log_Probability -0.4510889947414398
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-23
+S-__hi__ आज बिहार और पूर्वांचल के लोग।
+T- ""
+H- तिसिङ बिहार ओड़ोः पूर्वांचल रेन होड़ोको।
+D- तिसिङ बिहार ओड़ोः पूर्वांचल रेन होड़ोको।
+Log_Probability -0.3599688708782196
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-7
+S-__hi__ सूर्य के प्रकाश का महत्व समझाया गया।
+T- ""
+H- सिंगि रअः मसकल रअः मानाराङ बुजाओजानाको।
+D- सिंगि रअः मसकल रअः मानाराङ बुजाओजानाको।
+Log_Probability -0.3917548954486847
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-20
+S-__hi__ पानी के विभिन्न स्रोत सबकी सफाई की।
+T- ""
+H- दअः रेअः एटअः एटअः पुटिः सोबेनअः को परचि केदा।
+D- दअः रेअः एटअः एटअः पुटिः सोबेनअः को परचि केदा।
+Log_Probability -0.5591194033622742
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.500 hyp_len = 9 ref_len = 2)
+Sample_Id-25
+S-__hi__ आयोजन हो रहा है मेरी प्रार्थना है।
+T- ""
+H- आयोजन होबाओताना आञाः अरजि मेनाः।
+D- आयोजन होबाओताना आञाः अरजि मेनाः।
+Log_Probability -0.6893571615219116
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-5
+S-__hi__ प्रकृति से कितना गहरा जुडाव है?
+T- ""
+H- प्रकृति लोः चिमनुङ इकिर जुड़ागा मेनाः?
+D- प्रकृति लोः चिमनुङ इकिर जुड़ागा मेनाः?
+Log_Probability -0.6051734685897827
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-9
+S-__hi__ कि उतारचढाव जीवन का अभिन्न नही।
+T- ""
+H- चि हतारचढाव जिदानरा: अभिन्न बानो:।
+D- चि हतारचढाव जिदानरा: अभिन्न बानो:।
+Log_Probability -0.683236300945282
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-1
+S-__hi__ सूर्य उपासना का महापर्व छठ मनाया।
+T- ""
+H- सिंगि उपासना राः माराङ परब छठ मानातिङजाना।
+D- सिंगि उपासना राः माराङ परब छठ मानातिङजाना।
+Log_Probability -0.6290910840034485
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-13
+S-__hi__ और ठेकुआ का प्रसाद चढाया जाता है।
+T- ""
+H- ओड़ोः ठेकुआ राः प्रसाद राकाबोःआ।
+D- ओड़ोः ठेकुआ राः प्रसाद राकाबोःआ।
+Log_Probability -0.6126766204833984
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-27
+S-__hi__ समृद्धि सबके कल्याण का आशीर्वाद।
+T- ""
+H- समृद्धि सोबेनको:आ कल्याणरा: आशीर्वाद।
+D- समृद्धि सोबेनको:आ कल्याणरा: आशीर्वाद।
+Log_Probability -0.4330792725086212
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-14
+S-__hi__ इसका व्रत भी किसी कठिन साधना से कम नहीं होता।
+T- ""
+H- नेआरा व्रत जाआन कठिन साधनाते कोम का ताइना।
+D- नेआरा व्रत जाआन कठिन साधनाते कोम का ताइना।
+Log_Probability -0.6454289555549622
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-12
+S-__hi__ छठ मैया की पूजा में भांति-भांति के फलों।
+T- ""
+H- छठ मैया रेअः बोंगा रे रोकोम रोकोम रेअः जो।
+D- छठ मैया रेअः बोंगा रे रोकोम रोकोम रेअः जो।
+Log_Probability -0.6588079929351807
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.500 hyp_len = 9 ref_len = 2)
+Sample_Id-17
+S-__hi__ स्वच्छता के महत्व पर भी जोर देता है इस पर्व के आने पर।
+T- ""
+H- पनारचि रेअः महत्व रेओ जोर ओमेआ नेअः पोरोब हिजुः रे।
+D- पनारचि रेअः महत्व रेओ जोर ओमेआ नेअः पोरोब हिजुः रे।
+Log_Probability -0.6096411943435669
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 5.000 hyp_len = 10 ref_len = 2)
+Sample_Id-24
+S-__hi__ देश के जिस भी कोने में है वहाँ धूमधाम से छठ क।
+T- ""
+H- दिसुम रअः ओकोन कोना रेगे मेनअः एनतअः रे धूमधाम ते छठ क।
+D- दिसुम रअः ओकोन कोना रेगे मेनअः एनतअः रे धूमधाम ते छठ क।
+Log_Probability -0.5212047100067139
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 6.000 hyp_len = 12 ref_len = 2)
+Generate test with beam=5: chrF2 = 0.00

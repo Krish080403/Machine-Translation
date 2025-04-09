@@ -1,0 +1,14 @@
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='hi', target_lang='mr', trainpref='/home/krish/content/old_files/Version3/wmt22_spm/train.spm', validpref='/home/krish/content/old_files/Version3/wmt22_spm/dev.spm', testpref='/home/krish/content/old_files/Version3/wmt22_spm/test.spm', align_suffix=None, destdir='/home/krish/content/old_files/Version3/wmt22_spm/wmt22_bin', thresholdtgt=0, thresholdsrc=0, tgtdict='/home/krish/content/model_dict.128k.txt', srcdict='/home/krish/content/model_dict.128k.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[hi] Dictionary: 128112 types
+[hi] /home/krish/content/old_files/Version3/wmt22_spm/train.spm.hi: 31849 sents, 541414 tokens, 0.00665% replaced (by <unk>)
+[hi] Dictionary: 128112 types
+[hi] /home/krish/content/old_files/Version3/wmt22_spm/dev.spm.hi: 3313 sents, 52590 tokens, 0.0152% replaced (by <unk>)
+[hi] Dictionary: 128112 types
+[hi] /home/krish/content/old_files/Version3/wmt22_spm/test.spm.hi: 2319 sents, 48385 tokens, 0.0% replaced (by <unk>)
+[mr] Dictionary: 128112 types
+[mr] /home/krish/content/old_files/Version3/wmt22_spm/train.spm.mr: 31849 sents, 803304 tokens, 0.00598% replaced (by <unk>)
+[mr] Dictionary: 128112 types
+[mr] /home/krish/content/old_files/Version3/wmt22_spm/dev.spm.mr: 3313 sents, 78967 tokens, 0.00886% replaced (by <unk>)
+[mr] Dictionary: 128112 types
+[mr] /home/krish/content/old_files/Version3/wmt22_spm/test.spm.mr: 2319 sents, 75563 tokens, 0.00529% replaced (by <unk>)
+Wrote preprocessed data to /home/krish/content/old_files/Version3/wmt22_spm/wmt22_bin

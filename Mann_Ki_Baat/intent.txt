@@ -1,0 +1,730 @@
+Sample_Id-64
+S-__hi__ इसलिए
+T- ""
+H- एनामेनते
+D- एनामेनते
+Log_Probability -0.5214919447898865
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.368 ratio = 0.500 hyp_len = 1 ref_len = 2)
+Sample_Id-2
+S-__hi__ कपास
+T- ""
+H- कपास
+D- कपास
+Log_Probability -0.40613457560539246
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.368 ratio = 0.500 hyp_len = 1 ref_len = 2)
+Sample_Id-13
+S-__hi__ महाराष्ट्र में।
+T- ""
+H- महाराष्ट्र रे।
+D- महाराष्ट्र रे।
+Log_Probability -0.3356572687625885
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-25
+S-__hi__ मुककर
+T- ""
+H- हेताकेआते
+D- हेताकेआते
+Log_Probability -1.0679868459701538
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.368 ratio = 0.500 hyp_len = 1 ref_len = 2)
+Sample_Id-5
+S-__hi__ दशकों तक।
+T- ""
+H- गेल सिरमा जकेद।
+D- गेल सिरमा जकेद।
+Log_Probability -0.6731194257736206
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-8
+S-__hi__ इसके लिए उद्योग।
+T- ""
+H- नेआ उद्योग मेनते।
+D- नेआ उद्योग मेनते।
+Log_Probability -0.6855515837669373
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-11
+S-__hi__ मैंने महाराष्ट्र में।
+T- ""
+H- आञ महाराष्ट्र रे।
+D- आञ महाराष्ट्र रे।
+Log_Probability -0.5950119495391846
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-18
+S-__hi__ अगर कोई है।
+T- ""
+H- जदि जांए मेनअःइ रेदो।
+D- जदि जांए मेनअःइ रेदो।
+Log_Probability -0.6357290744781494
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-19
+S-__hi__ तो कांग्रेस है।
+T- ""
+H- दो कांग्रेस तनअः।
+D- दो कांग्रेस तनअः।
+Log_Probability -0.6830774545669556
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-30
+S-__hi__ जब से महा।
+T- ""
+H- चिमतुङ ते महा।
+D- चिमतुङ ते महा।
+Log_Probability -0.6140924096107483
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-45
+S-__hi__ कहीं बाढ।
+T- ""
+H- जाआं ताः बाड़ि।
+D- जाआं ताः बाड़ि।
+Log_Probability -0.6313033699989319
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-59
+S-__hi__ मोर का।
+T- ""
+H- मरअः ।
+D- मरअः ।
+Log_Probability -1.033632516860962
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-61
+S-__hi__ किसान खोद।
+T- ""
+H- चासा होड़ो उर।
+D- चासा होड़ो उर।
+Log_Probability -0.657458484172821
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-22
+S-__hi__ पानी का संकट।
+T- ""
+H- दअः रेअः सोंकोटो।
+D- दअः रेअः सोंकोटो।
+Log_Probability -0.4967730939388275
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-23
+S-__hi__ गहराता गया।
+T- ""
+H- इकिर इदि जना।
+D- इकिर इदि जना।
+Log_Probability -0.45371362566947937
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-34
+S-__hi__ वैन गंगा।
+T- ""
+H- वैन गंगा।
+D- वैन गंगा।
+Log_Probability -0.3167541027069092
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-37
+S-__hi__ इस परियोजना से।
+T- ""
+H- ने परियोजना ते।
+D- ने परियोजना ते।
+Log_Probability -0.4498031735420227
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-39
+S-__hi__ अकोलाा।
+T- ""
+H- अकोला।
+D- अकोला।
+Log_Probability -0.3774207830429077
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.368 ratio = 0.500 hyp_len = 1 ref_len = 2)
+Sample_Id-47
+S-__hi__ इसके लिए हमारी स।
+T- ""
+H- नेआ मेनते अबुअः स।
+D- नेआ मेनते अबुअः स।
+Log_Probability -0.7179731130599976
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-52
+S-__hi__ हम किसानों को।
+T- ""
+H- अबु किसान को।
+D- अबु किसान को।
+Log_Probability -0.6327395439147949
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-67
+S-__hi__ महायुति सर।
+T- ""
+H- महायुति गोमके।
+D- महायुति गोमके।
+Log_Probability -0.42748743295669556
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-71
+S-__hi__ रुपए मिल रहे हैं।
+T- ""
+H- टका नमोः तना।
+D- टका नमोः तना।
+Log_Probability -0.4723407030105591
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-78
+S-__hi__ अगले पांच वर्ष।
+T- ""
+H- अयर मोड़े सिरमा।
+D- अयर मोड़े सिरमा।
+Log_Probability -0.6129535436630249
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-79
+S-__hi__ षों में।
+T- ""
+H- ओड़ोः मिसा।
+D- ओड़ोः मिसा।
+Log_Probability -1.118870735168457
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-0
+S-__hi__ हमारे अकोला को।
+T- ""
+H- अलेअः अकोला के।
+D- अलेअः अकोला के।
+Log_Probability -0.5878210067749023
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-16
+S-__hi__ भाई और बहनों।
+T- ""
+H- हगा ओड़ोः मिसिको।
+D- हगा ओड़ोः मिसिको।
+Log_Probability -0.4133354425430298
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-28
+S-__hi__ जीने शुरू किए थे।
+T- ""
+H- जीदेन एटेःलाःले।
+D- जीदेन एटेःलाःले।
+Log_Probability -0.7113493084907532
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-33
+S-__hi__ गति मिली हमारी सरकार ने।
+T- ""
+H- गति नामकेदाए आलेआः सरकार।
+D- गति नामकेदाए आलेआः सरकार।
+Log_Probability -0.6083512902259827
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-41
+S-__hi__ पानी की कमी दूर होगी।
+T- ""
+H- दाः रअः घाटि चाबाओःआ।
+D- दाः रअः घाटि चाबाओःआ।
+Log_Probability -0.757666289806366
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-42
+S-__hi__ और इस पर करीब करीब।
+T- ""
+H- ओड़ो: नेआरे नाड़े: नाड़े:।
+D- ओड़ो: नेआरे नाड़े: नाड़े:।
+Log_Probability -0.5957647562026978
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-49
+S-__hi__ इससे महाराष्ट्र केइस बा।
+T- ""
+H- नेआ ते महाराष्ट्र केइस बा।
+D- नेआ ते महाराष्ट्र केइस बा।
+Log_Probability -0.8494665622711182
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-50
+S-__hi__ पानी की समस्या दूर होगी।
+T- ""
+H- दाः राः बालाए पारकाओःआ।
+D- दाः राः बालाए पारकाओःआ।
+Log_Probability -0.5406453609466553
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-51
+S-__hi__ और उत्पादन बेहतर हो।
+T- ""
+H- ओड़ो: चासा माजा होबाओका।
+D- ओड़ो: चासा माजा होबाओका।
+Log_Probability -0.6160607933998108
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-56
+S-__hi__ महाराष्ट्र में िच।
+T- ""
+H- महाराष्ट्र रे इच।
+D- महाराष्ट्र रे इच।
+Log_Probability -0.7855709195137024
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-69
+S-__hi__ इसका परिणाम है कि म।
+T- ""
+H- नेआ राः परिणाम मेनाः चि म।
+D- नेआ राः परिणाम मेनाः चि म।
+Log_Probability -0.7954156994819641
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-76
+S-__hi__ से बचाने के लिए।
+T- ""
+H- ते बंचव मेनते।
+D- ते बंचव मेनते।
+Log_Probability -0.5987421870231628
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-4
+S-__hi__ लेकिन हमारे कपास किसान को।
+T- ""
+H- मेनदो अबुआ कपास किसान को।
+D- मेनदो अबुआ कपास किसान को।
+Log_Probability -0.5160015821456909
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-14
+S-__hi__ कपास किसानों के लिए।
+T- ""
+H- कपास किसान को मेनते।
+D- कपास किसान को मेनते।
+Log_Probability -0.6255236864089966
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-20
+S-__hi__ यहां कितने समय तक कांग्रेस?
+T- ""
+H- नेताः चिमनुङ सोमाए जाकेद कांग्रेस?
+D- नेताः चिमनुङ सोमाए जाकेद कांग्रेस?
+Log_Probability -0.40197110176086426
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-38
+S-__hi__ अमरावती यवतमाल।
+T- ""
+H- अमरावती यवतमाल।
+D- अमरावती यवतमाल।
+Log_Probability -0.2585362195968628
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-40
+S-__hi__ नागपुर और वर्धा में।
+T- ""
+H- नागपुर ओड़ोः वर्धा रे।
+D- नागपुर ओड़ोः वर्धा रे।
+Log_Probability -0.3141498267650604
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-62
+S-__hi__ इतना सशक्त हो।
+T- ""
+H- निमिन पेड़ेःआन मेनाःमेआ।
+D- निमिन पेड़ेःआन मेनाःमेआ।
+Log_Probability -0.7400183081626892
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-6
+S-__hi__ ये हालात अब बदल रहे हैं।
+T- ""
+H- ने हालात नाआः बादिलिओःताना।
+D- ने हालात नाआः बादिलिओःताना।
+Log_Probability -0.46523305773735046
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-9
+S-__hi__ और इंफ्रास्ट्रक्चर।
+T- ""
+H- ओड़ोः इंफ्रास्ट्रक्चर।
+D- ओड़ोः इंफ्रास्ट्रक्चर।
+Log_Probability -0.40840452909469604
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-15
+S-__hi__ समृद्धि के नए अवसर तैयार होंगे।
+T- ""
+H- हाराबुरू रअः नावा सोमाए बाइओगा।
+D- हाराबुरू रअः नावा सोमाए बाइओगा।
+Log_Probability -0.8393595814704895
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-17
+S-__hi__ किसान की तकलीफों की।
+T- ""
+H- चासा होड़ो कोआः बालाए को।
+D- चासा होड़ो कोआः बालाए को।
+Log_Probability -0.7570957541465759
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-31
+S-__hi__ यूी सरकार महाराष्ट्र में आई है।
+T- ""
+H- नेआ सरकार महाराष्ट्र रे हिजुःआकाना।
+D- नेआ सरकार महाराष्ट्र रे हिजुःआकाना।
+Log_Probability -0.5566291809082031
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-35
+S-__hi__ गंगा इन नदियों को।
+T- ""
+H- गंगा ने गाड़ा को।
+D- गंगा ने गाड़ा को।
+Log_Probability -0.6462394595146179
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-48
+S-__hi__ सरकार ने हजारों करोड रुपये दिए।
+T- ""
+H- सरकार हजारों करोड़ टाका ओमकेदाएः।
+D- सरकार हजारों करोड़ टाका ओमकेदाएः।
+Log_Probability -0.5602020621299744
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-57
+S-__hi__ दस लाख हेक्टयर तक।
+T- ""
+H- गेल लाख हेक्टयर जाकेद।
+D- गेल लाख हेक्टयर जाकेद।
+Log_Probability -0.7361543774604797
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-60
+S-__hi__ साथियों हमारा संकल्प है।
+T- ""
+H- सोंगेको आलेआः किरिआ मेनाः।
+D- सोंगेको आलेआः किरिआ मेनाः।
+Log_Probability -0.6893953084945679
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-72
+S-__hi__ और सोयाबीन किसान को।
+T- ""
+H- ओड़ोः सोयाबीन चासा तनको।
+D- ओड़ोः सोयाबीन चासा तनको।
+Log_Probability -0.49521827697753906
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-74
+S-__hi__ अतिरिक्त दिए जा रहे हैं।
+T- ""
+H- अतिरिक्त ओमोः तना।
+D- अतिरिक्त ओमोः तना।
+Log_Probability -0.764494776725769
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-7
+S-__hi__ कपास किसानों की आय बढे।
+T- ""
+H- कपास किसान कोअः आय बढ़व का।
+D- कपास किसान कोअः आय बढ़व का।
+Log_Probability -0.7896701097488403
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-10
+S-__hi__ दोनों को बढावा दिया जा रहा है।
+T- ""
+H- बरनकिन के अयर ते बढ़ावा को ओम जदा।
+D- बरनकिन के अयर ते बढ़ावा को ओम जदा।
+Log_Probability -0.9220836162567139
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-26
+S-__hi__ अपनी जेब भरने में लगे रहे।
+T- ""
+H- आपान थाइलाः पेरेः आचुआकान ताइनोःका।
+D- आपान थाइलाः पेरेः आचुआकान ताइनोःका।
+Log_Probability -0.5975462794303894
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-43
+S-__hi__ नब्बे हजार करोड रुपये खर्च हु।
+T- ""
+H- नब्बा हजार करोड़ टका खर्चा कना।
+D- नब्बा हजार करोड़ टका खर्चा कना।
+Log_Probability -0.8142852783203125
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-53
+S-__hi__ कम पानी का उपयोग कर सिंचाई।
+T- ""
+H- हुड़िङ दाः कामि रे आउकेआते पटओएपे।
+D- हुड़िङ दाः कामि रे आउकेआते पटओएपे।
+Log_Probability -0.7316246628761292
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-68
+S-__hi__ सरकार ने उसमें अपना भी सहयोग किया।
+T- ""
+H- सरकार नेआरे आपानओ देङगाकेदाए।
+D- सरकार नेआरे आपानओ देङगाकेदाए।
+Log_Probability -0.8975813984870911
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-73
+S-__hi__ अलग से पांचपांच हजार रूे।
+T- ""
+H- बिनगा ते पाँचपांच हजार रूे।
+D- बिनगा ते पाँचपांच हजार रूे।
+Log_Probability -0.9283915758132935
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-77
+S-__hi__ फसल बीमा योजना लेकर आए हैं।
+T- ""
+H- फसल बीमा योजना आउकेआते हिजुआकाना।
+D- फसल बीमा योजना आउकेआते हिजुआकाना।
+Log_Probability -0.6096391677856445
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-1
+S-__hi__ कपास के उत्पादन के लिए जाना जाता है।
+T- ""
+H- कपास बाइ मेनते इतुआनाको।
+D- कपास बाइ मेनते इतुआनाको।
+Log_Probability -0.6795513033866882
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-36
+S-__hi__ लिंक करने की योजना को मंजूरीी।
+T- ""
+H- लिंक रिका रअ योजना के मंजूरी केदा।
+D- लिंक रिका रअ योजना के मंजूरी केदा।
+Log_Probability -0.7359600067138672
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-46
+S-__hi__ और कहीं सूखा ये समस्या खत्म हो।
+T- ""
+H- ओड़ोः जाआं ताः रे रोड़ोआकान ने बालाए चाबाओःआ।
+D- ओड़ोः जाआं ताः रे रोड़ोआकान ने बालाए चाबाओःआ।
+Log_Probability -0.5386335849761963
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.000 hyp_len = 8 ref_len = 2)
+Sample_Id-54
+S-__hi__ करने के लिए भी प्रेरित कर रहे हैं।
+T- ""
+H- रिका मेनतेओ उसकुर जद् कोआ।
+D- रिका मेनतेओ उसकुर जद् कोआ।
+Log_Probability -0.7733202576637268
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-55
+S-__hi__ पीएम कृषि सिंचाई योजना के तहत।
+T- ""
+H- पीएम कृषि सिंचाई योजना लेकाते।
+D- पीएम कृषि सिंचाई योजना लेकाते।
+Log_Probability -0.5398039817810059
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.500 hyp_len = 5 ref_len = 2)
+Sample_Id-66
+S-__hi__ हमने पीएम किसान सम्मान निधि शुरू की।
+T- ""
+H- अले पीएम किसान सम्मान निधि ले एटे: केदा।
+D- अले पीएम किसान सम्मान निधि ले एटे: केदा।
+Log_Probability -0.5128738880157471
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.500 hyp_len = 9 ref_len = 2)
+Sample_Id-75
+S-__hi__ हम किसानों को फसल के नुकसान।
+T- ""
+H- अबु किसान को फसल रेअः नोकसान।
+D- अबु किसान को फसल रेअः नोकसान।
+Log_Probability -0.6836081147193909
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-21
+S-__hi__ सरकारमहाराष्ट्र और विदर्भ में।
+T- ""
+H- सरकारमहाराष्ट्र ओड़ो: विदर्भरे।
+D- सरकारमहाराष्ट्र ओड़ो: विदर्भरे।
+Log_Probability -0.40700283646583557
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 2.000 hyp_len = 4 ref_len = 2)
+Sample_Id-44
+S-__hi__ ं नदियां आपस में जुडे।
+T- ""
+H- गाड़ाको जुड़ागाकाना।
+D- गाड़ाको जुड़ागाकाना।
+Log_Probability -0.7793641090393066
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 2 ref_len = 2)
+Sample_Id-70
+S-__hi__ राष्ट्र के किसानों को सालाना बारह।
+T- ""
+H- दिसुम रेन किसान कोके सालाना बारह।
+D- दिसुम रेन किसान कोके सालाना बारह।
+Log_Probability -0.5589009523391724
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-32
+S-__hi__ सिंचाई से जुडी परियोजनाओं को फिर।
+T- ""
+H- पटाओ ते जुड़ागाकान परियोजनाको ओड़ोः मिसा।
+D- पटाओ ते जुड़ागाकान परियोजनाको ओड़ोः मिसा।
+Log_Probability -0.6594993472099304
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-80
+S-__hi__ इन नीतियों का और व्यापक असर दिखेगा।
+T- ""
+H- ने नीतिको:आ ओड़ो: व्यापक प्रभाव लेलो:गा।
+D- ने नीतिको:आ ओड़ो: व्यापक प्रभाव लेलो:गा।
+Log_Probability -0.6888154149055481
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 5.500 hyp_len = 11 ref_len = 2)
+Sample_Id-24
+S-__hi__ लेकिन कांग्रेस और उसके साथियों की सरकारों ने क्या किया?
+T- ""
+H- मेनदो कांग्रेस ओड़ोः इनिअः सोंगेको रेन सरकार चिनअः को चिका केदा?
+D- मेनदो कांग्रेस ओड़ोः इनिअः सोंगेको रेन सरकार चिनअः को चिका केदा?
+Log_Probability -0.5450478196144104
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 6.000 hyp_len = 12 ref_len = 2)
+Sample_Id-29
+S-__hi__ अगाडी वालों ने उन पर भी ब्रेक लगा दिया।
+T- ""
+H- अगाडी होड़ोको इनिः चेतानरेओ ब्रेक लागाओकेदाको।
+D- अगाडी होड़ोको इनिः चेतानरेओ ब्रेक लागाओकेदाको।
+Log_Probability -0.7585205435752869
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Sample_Id-3
+S-__hi__ टेक्सटाइल इंडस्ट्री का बहुत बडा आधार है।
+T- ""
+H- टेक्सटाइल इंडस्ट्री राः बेसे माराङ आधार मेनाः।
+D- टेक्सटाइल इंडस्ट्री राः बेसे माराङ आधार मेनाः।
+Log_Probability -0.4122169613838196
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.500 hyp_len = 7 ref_len = 2)
+Sample_Id-12
+S-__hi__ टेक्सटाइल पार्क का शिलान्यास किया है।
+T- ""
+H- टेक्सटाइल पार्क बाइकेदाको।
+D- टेक्सटाइल पार्क बाइकेदाको।
+Log_Probability -0.6812907457351685
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 1.500 hyp_len = 3 ref_len = 2)
+Sample_Id-65
+S-__hi__ हम किसान की आय बढा रहे हैं और खर्चे कमह।
+T- ""
+H- अबु किसान कोअः आय बु हरा जदा ओड़ोः खर्चा बु कोम जदा।
+D- अबु किसान कोअः आय बु हरा जदा ओड़ोः खर्चा बु कोम जदा।
+Log_Probability -0.7357896566390991
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 6.000 hyp_len = 12 ref_len = 2)
+Sample_Id-58
+S-__hi__ कबढाया गया जिसका मकसद है पर ड्रॉप।
+T- ""
+H- कबढाव जना ओकोय:अ सनंग मेना: रे ड्रॉप
+D- कबढाव जना ओकोय:अ सनंग मेना: रे ड्रॉप
+Log_Probability -0.7443488240242004
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 5.000 hyp_len = 10 ref_len = 2)
+Sample_Id-63
+S-__hi__ कि वो देश की प्रगति का नायक बनकर उभरे।
+T- ""
+H- चि इनिः दिसुम रअः उनुबार रेन नायक बाइकोःआते उड़ुङजानाएः।
+D- चि इनिः दिसुम रअः उनुबार रेन नायक बाइकोःआते उड़ुङजानाएः।
+Log_Probability -0.5943292379379272
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 4.500 hyp_len = 9 ref_len = 2)
+Sample_Id-27
+S-__hi__ सिंचाई के जो प्रोजेक्ट देवेनद्र फडव।
+T- ""
+H- सिंचाई रेन जे प्रोजेक्ट देवेनद्र फडव।
+D- सिंचाई रेन जे प्रोजेक्ट देवेनद्र फडव।
+Log_Probability -0.5515101552009583
+Cfhrf score: 0.0
+Cfhrf++ score: 0.0
+Bleu score: BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 1.000 ratio = 3.000 hyp_len = 6 ref_len = 2)
+Generate test with beam=5: chrF2 = 0.00

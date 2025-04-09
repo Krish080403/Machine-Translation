@@ -1,7 +1,6 @@
 *.pt
 Dataa.xlsx
 github/
-fairseq/
 sentencepiece/
 Hindi_Marathi/
 Hindi_Nepali/

@@ -1,6 +1,8 @@
 *.pt
 Dataa.xlsx
 github/
+fairseq/
+sentencepiece/
 Hindi_Marathi/
 Hindi_Nepali/
 Machine_Translation/
@@ -19,5 +21,5 @@ Mann_Ki_Baat/MKB_MR-HI
 backtranslation/
 trial/check
 trial/checkpoint1.2B
-Mann_Ki_Baat/Miniconda3-latest-Linux-x86_64
+Mann_Ki_Baat/Miniconda3-latest-Linux-x86_64.sh
 Mann_Ki_Baat/demoenv

@@ -1,6 +1,5 @@
 *.pt
 Dataa.xlsx
-fairseq/
 github/
 Hindi_Marathi/
 Hindi_Nepali/
@@ -20,3 +19,5 @@ Mann_Ki_Baat/checkpoint1.2B
 Mann_Ki_Baat/MKB_HI-MR
 Mann_Ki_Baat/MKB_MR-HI
 backtranslation/
+trial/check
+trial/checkpoint1.2B

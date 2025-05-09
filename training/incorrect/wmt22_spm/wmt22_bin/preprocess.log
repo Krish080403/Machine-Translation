@@ -1,0 +1,14 @@
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='hi', target_lang='mr', trainpref='wmt22_spm/train.spm', validpref='wmt22_spm/dev.spm', testpref='wmt22_spm/test.spm', align_suffix=None, destdir='wmt22_spm/wmt22_bin', thresholdtgt=0, thresholdsrc=0, tgtdict='/home/krish/content/model_dict.128k.txt', srcdict='/home/krish/content/model_dict.128k.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[hi] Dictionary: 128112 types
+[hi] wmt22_spm/train.spm.hi: 52479 sents, 1221288 tokens, 0.0086% replaced (by <unk>)
+[hi] Dictionary: 128112 types
+[hi] wmt22_spm/dev.spm.hi: 5888 sents, 134807 tokens, 0.00668% replaced (by <unk>)
+[hi] Dictionary: 128112 types
+[hi] wmt22_spm/test.spm.hi: 2648 sents, 60156 tokens, 0.00499% replaced (by <unk>)
+[mr] Dictionary: 128112 types
+[mr] wmt22_spm/train.spm.mr: 52479 sents, 135313 tokens, 0.0% replaced (by <unk>)
+[mr] Dictionary: 128112 types
+[mr] wmt22_spm/dev.spm.mr: 5888 sents, 11776 tokens, 0.0% replaced (by <unk>)
+[mr] Dictionary: 128112 types
+[mr] wmt22_spm/test.spm.mr: 2648 sents, 92689 tokens, 0.00755% replaced (by <unk>)
+Wrote preprocessed data to wmt22_spm/wmt22_bin

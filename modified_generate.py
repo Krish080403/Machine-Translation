@@ -252,6 +252,7 @@ def _main(cfg: DictConfig, output_file):
 
             if not cfg.common_eval.quiet:
                 if src_dict is not None:
+                    print("Sample_Id-{}".format(sample_id),file=output_file)
                     print("S-{}".format(src_str), file=output_file)
                 if has_target:
                     print("T- {}".format(target_str), file=output_file)

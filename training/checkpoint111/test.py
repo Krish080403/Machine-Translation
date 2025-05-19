@@ -2,7 +2,7 @@ import os
 
 try:
     # Command to generate translations
-    generate_command = 'python3.10 /home/krish/content/old_files/Version4/modified_generate.py /home/krish/content/training/gold/wmt22_spm/wmt22_bin --scoring chrf\
+    generate_command = 'python3.10 /home/krish/content/modified_generate.py /home/krish/content/training/gold/wmt22_spm/wmt22_bin --scoring chrf\
         --max-tokens 10000 \
         --batch-size 1 \
         --path /home/krish/content/training/checkpoint111/checkpoint1.2B/checkpoint_best.pt \
